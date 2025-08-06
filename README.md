@@ -5,7 +5,8 @@ First, I used Teachable Machine to train the model to categorize waste into glas
 
 Dataset from kaggle: https://www.kaggle.com/datasets/angelikasita/waste-images
 
-Then I trained the model and exported it to the TensorFlow - Keras file, from the site the model file was created and the accompanying Python code "we copy" to be able to run it
+Then I trained the model and exported it to the TensorFlow - Keras file, from the site the model file was created and the Python code "we copy it" to be able to run it.  
+
 To run the code I used Google Collab, which is an excellent editor for running code on Google Cloud resources.
 
 I created a new file and pasted the TensorFlow code into it, uploaded the Keras file, the label and the images where I will test the model.
