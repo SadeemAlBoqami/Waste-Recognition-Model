@@ -10,7 +10,7 @@ To run the code I used Google Collab, which is an excellent editor for running c
 
 I created a new file and pasted the TensorFlow code into it, uploaded the Keras file, the label and the images where I will test the model.
 
-Now to test the code, we modify the code, specifically the line “image = image.open(”<IMAGE_PATH>“).convert(‘RGB’)”, type in the test image extension, run the code, and we see the output immediately.
+Now to test the code, we modify the code, specifically the line `image = image.open(”<IMAGE_PATH>“).convert(‘RGB’)` type test image extension, run the code, and we see the output immediately.
 
 
 
