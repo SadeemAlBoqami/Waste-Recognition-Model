@@ -1,7 +1,7 @@
 # Waste Recognition Model
 An artificial intelligence model using Teachable Machine to recognize and classify waste images (paper-wood-plastic-glass-organic).
 
-First, I used Teachable Machine to train the model to categorize waste into glass/plastic/paper/paper/wood/organic material, using a huge image set I found on Kaggle. The average number of images on which each class was trained is about 800-1000 images.
+First, I used Teachable Machine to train the model to categorize waste into glass/plastic/paper/wood/organic material, using a huge image set I found on Kaggle. The average number of images on which each class was trained is about 800-1000 images.
 
 Dataset from kaggle: https://www.kaggle.com/datasets/angelikasita/waste-images
 
